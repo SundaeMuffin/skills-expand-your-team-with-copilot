@@ -1,5 +1,5 @@
-# Prepare python environment
-pip install -r src/requirements.txt
+# Prepare Python environment
+bash ./.devcontainer/setup-python.sh
 
 # Prepare MongoDB Development DB
 ./.devcontainer/installMongoDB.sh
