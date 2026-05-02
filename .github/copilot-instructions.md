@@ -1,6 +1,7 @@
 ## Development Environment
 
-For detailed setup and development instructions, please refer to our [Development Guide](../docs/how-to-develop.md).
+For local development, make sure MongoDB is running on `localhost:27017` before starting the app, because the backend connects to that database during startup.
+Keep any additional setup guidance in this file unless the linked documentation has been verified to match the current application behavior.
 
 ### User Interaction
 
